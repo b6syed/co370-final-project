@@ -2,11 +2,11 @@
 CO370 Fall 2024 Final Project
 
 demand.csv
-This file contains the demand parameters (Di) for each node:
-node_id: Represents both demand nodes (Nd) and hospital nodes (H)
-demand: The quantity needed at each location
-Regular nodes (0-4) have positive demand values
-Hospital nodes (5-6) have zero demand as they are service points
+\nThis file contains the demand parameters (Di) for each node:
+\nnode_id: Represents both demand nodes (Nd) and hospital nodes (H)
+\ndemand: The quantity needed at each location
+\nRegular nodes (0-4) have positive demand values
+\nHospital nodes (5-6) have zero demand as they are service points
 
 contractors.csv
 This file combines several parameters for each contractor (C):
